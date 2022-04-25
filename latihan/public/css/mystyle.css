@@ -1,0 +1,63 @@
+body{
+    background-color: burlywood;
+}
+
+p{
+    color: crimson;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#para2{
+    color: blue;
+}
+
+.para3{
+    color: darkgreen;
+}
+
+header{
+    background-color: white;
+    display: flex;
+    justify-content:space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+ul.listitem{
+list-style: none;
+margin: 10px 15px 10px 15px;
+}
+
+li.list{
+    display: inline;
+    margin: 10px 15px 10px 15px;
+}
+
+a.linku{
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    color:azure;
+    display: flex;
+    justify-content: center;
+}
+
+p.create{
+    color: azure;
+}
+
+h1{
+    margin-top: 70px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h3{
+    margin-left: 30px;
+    margin-right: 30px;
+}
